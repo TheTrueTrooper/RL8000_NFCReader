@@ -1,0 +1,11 @@
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\bin\Debug\RL8000_NFCReader.dll
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\bin\Debug\RL8000_NFCReader.pdb
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\obj\Debug\RL8000_NFCReader.csprojAssemblyReference.cache
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\obj\Debug\RL8000_NFCReader.csproj.CoreCompileInputs.cache
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\obj\Debug\RL8000_NFCReader.dll
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\obj\Debug\RL8000_NFCReader.pdb
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\bin\Debug\rfidlib_aip_iso14443A.dll
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\bin\Debug\rfidlib_nfc.dll
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\bin\Debug\rfidlib_reader.dll
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\bin\Debug\rfidlib.cs
+C:\Users\Angelo's Tower PC\source\repos\GameStartStopService\RL8000_NFCReader\bin\Debug\Drivers\rfidlib_drv_RL8000.dll
